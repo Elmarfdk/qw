@@ -1,0 +1,15 @@
+{
+  "name": "elmarfdk",
+  "version": "7.0.0",
+  "description": "node version 6.9.1 npm version 3.10.8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elmarfdk",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "elmarfdk"
+  }
+}
